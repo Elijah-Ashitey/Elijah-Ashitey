@@ -18,12 +18,9 @@ Hi there 👋 , [Elijah Ashitey] here. A true product of God's Grace
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah-Ashitey&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </details>
 
-<details> <summary>
-   🌐 Socials </summary>
-While not particularly active but I'm present on these sites <br/>
 
-</details>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) (https://www.linkedin.com/in/elijah-ashitey-30262015a/) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white) (https://twitter.com/el_Ashitey) 
+# 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) (https://www.linkedin.com/in/elijah-ashitey-30262015a/)] [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white) (https://twitter.com/el_Ashitey)] 
 <!--
 **Elijah-Ashitey/Elijah-Ashitey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
