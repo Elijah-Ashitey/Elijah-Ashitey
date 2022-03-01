@@ -1,4 +1,4 @@
-# 💫About Laud Gilbert :
+# 💫About Elijah Ashitey :
 Hi there 👋 , [Elijah Ashitey] here. A true product of God's Grace 
 
 
